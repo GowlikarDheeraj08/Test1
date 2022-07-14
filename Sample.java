@@ -3,5 +3,6 @@ class Sample{
     System.out.println("hello all");
     System.out.println("dHEERAJ");
     System.out.println("RE BUILD ME");
+    System.out.println("RE BUILD ME TWICW");
   }
 }
